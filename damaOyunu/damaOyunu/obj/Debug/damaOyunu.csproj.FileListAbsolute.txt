@@ -1,0 +1,11 @@
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\bin\Debug\damaOyunu.exe.config
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\bin\Debug\damaOyunu.exe
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\bin\Debug\damaOyunu.pdb
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.csproj.AssemblyReference.cache
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.Form1.resources
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.Properties.Resources.resources
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.csproj.GenerateResource.cache
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.exe
+C:\Users\Nurhat\source\repos\damaOyunu\damaOyunu\obj\Debug\damaOyunu.pdb
